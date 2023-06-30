@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Jordan Teye, 40792024
+ * @author Jordan Teye
  * 
  */
 
